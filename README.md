@@ -1,12 +1,12 @@
-# Student Grade-Book backend Service
+## Student Grade-Book backend Service
 
 REST API support CRUD for Student and their grades for Math, Science and history.
 
-# Tech Stack
+### Tech Stack
 	SpringBoot
 	SpringData JPA
 
-# Resource Endpoints:
+### Resource Endpoints:
 	GetAllStudentDetails: GET "/"
 	CreateStudent: POST "/"
 	GetStudentByID: GET "/studentInformation/{id}"
